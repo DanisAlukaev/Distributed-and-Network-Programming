@@ -4,5 +4,6 @@
 Week 1: Practice with multiprocessing \
 Week 2: UDP socket programming \
 Week 3: A more reliable file transfer on top of UDP \
-Week 4: A TCP Client-Server Game 
+Week 4: A TCP Client-Server Game \
+Week 5: RPC practice
 
