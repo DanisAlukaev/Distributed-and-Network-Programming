@@ -7,5 +7,6 @@ Week 3: A more reliable file transfer on top of UDP \
 Week 4: A TCP Client-Server Game \
 Week 5: RPC practice \
 Week 6: Chord \
-Week 7: Chord (part 2)
+Week 7: Chord (part 2) \
+Week 8: RAFT practice
 
