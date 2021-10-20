@@ -1,12 +1,15 @@
 # Distributed and Network Programming
-[F21] Repository for lab submissions on Distributed and Network Programming course. Danis Alukaev B19-DS-01
+Author: Danis Alukaev \
+Email: d.alukaev@innopolis.university \
+Group: B19-DS-01 
 
-Week 1: Practice with multiprocessing \
-Week 2: UDP socket programming \
-Week 3: A more reliable file transfer on top of UDP \
-Week 4: A TCP Client-Server Game \
-Week 5: RPC practice \
-Week 6: Chord \
-Week 7: Chord (part 2) \
-Week 8: RAFT practice
+## Structure of repository:
+Lab01: Practice with multiprocessing \
+Lab02: UDP socket programming \
+Lab03: A more reliable file transfer on top of UDP \
+Lab04: A TCP Client-Server Game \
+Lab05: RPC practice \
+Lab06: Chord \
+Lab07: Chord (part 2) \
+Lab08: RAFT practice
 
